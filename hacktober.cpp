@@ -7,5 +7,6 @@ cout<<update3<<endl;
 cout<<update4<<endl;
 cout<<update5<<endl;
 cout<<update6<<endl;
+cout<<update7<<endl;
     return 0;
 }
